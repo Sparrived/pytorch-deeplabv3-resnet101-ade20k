@@ -1,0 +1,1 @@
+# 使用ADE20k数据集在Pytorch环境下训练DeepLabV3-ResNet101
